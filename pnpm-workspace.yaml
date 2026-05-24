@@ -1,0 +1,9 @@
+packages:
+  - .
+
+ignoredBuiltDependencies:
+  - core-js
+
+onlyBuiltDependencies:
+  - esbuild
+  - svelte-preprocess
